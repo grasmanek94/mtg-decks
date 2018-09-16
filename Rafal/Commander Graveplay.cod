@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Commander Graveplay</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Havengul Lich"/>
+        <card number="1" name="Doomgape"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Turn to Frog"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Staff of Nin"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Sever the Bloodline"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Liliana Vess"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Rise of the Dark Realms"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="The Mimeoplasm"/>
+        <card number="1" name="Worldslayer"/>
+        <card number="1" name="Undermine"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Gladecover Scout"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Blatant Thievery"/>
+        <card number="1" name="Sultai Banner"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Deadbridge Chant"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Pariah's Shield"/>
+        <card number="1" name="Back to Nature"/>
+        <card number="1" name="Doubling Cube"/>
+        <card number="1" name="Lord of Extinction"/>
+        <card number="1" name="Body Double"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Recoil"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Villainous Wealth"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Transguild Promenade"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Gleancrawler"/>
+        <card number="1" name="Chancellor of the Spires"/>
+        <card number="1" name="Sultai Ascendancy"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Elixir of Immortality"/>
+        <card number="1" name="Sultai Charm"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Ward of Bones"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Not of This World"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Temporal Extortion"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Mutilate"/>
+        <card number="1" name="Enslave"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Jungle Hollow"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Hot Soup"/>
+        <card number="1" name="Sinkhole"/>
+        <card number="1" name="Mindslaver"/>
+        <card number="1" name="Plated Slagwurm"/>
+        <card number="1" name="Mnemonic Wall"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Encrust"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Tendrils of Corruption"/>
+        <card number="1" name="Creeping Renaissance"/>
+    </zone>
+</cockatrice_deck>

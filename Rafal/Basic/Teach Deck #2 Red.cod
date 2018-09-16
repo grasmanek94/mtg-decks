@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Teach Deck #2 Red</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Goblin Arsonist"/>
+        <card number="3" name="Impetuous Sunchaser"/>
+        <card number="1" name="Jeska, Warrior Adept"/>
+        <card number="4" name="Kiln Fiend"/>
+        <card number="3" name="Spark Elemental"/>
+        <card number="4" name="Assault Strobe"/>
+        <card number="4" name="Disintegrate"/>
+        <card number="3" name="Flame Slash"/>
+        <card number="2" name="Traitorous Blood"/>
+        <card number="4" name="Collateral Damage"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="4" name="Rush of Adrenaline"/>
+        <card number="21" name="Mountain"/>
+    </zone>
+    <zone name="side">
+    </zone>
+</cockatrice_deck>

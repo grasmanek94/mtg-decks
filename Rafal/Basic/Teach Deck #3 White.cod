@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Teach Deck #3 White</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Crusader of Odric"/>
+        <card number="4" name="Fencing Ace"/>
+        <card number="1" name="Knight-Captain of Eos"/>
+        <card number="2" name="Mentor of the Meek"/>
+        <card number="4" name="Perimeter Captain"/>
+        <card number="4" name="Veteran Armorsmith"/>
+        <card number="4" name="Veteran Swordsmith"/>
+        <card number="2" name="Angelic Gift"/>
+        <card number="2" name="Glorious Anthem"/>
+        <card number="2" name="Oblivion Ring"/>
+        <card number="3" name="Pacifism"/>
+        <card number="2" name="Pentarch Ward"/>
+        <card number="4" name="Raise the Alarm"/>
+        <card number="24" name="Plains"/>
+    <zone name="side">
+    </zone>
+</cockatrice_deck>

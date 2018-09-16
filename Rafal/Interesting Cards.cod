@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Interesting Cards</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Amulet of Safekeeping"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Declaration of Naught"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Lifeforce"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Second Guess"/>
+        <card number="1" name="Spell Syphon"/>
+        <card number="1" name="Spoils of War"/>
+        <card number="1" name="Sunken Field"/>
+        <card number="1" name="Turn Aside"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="1" name="Amulet of Unmaking"/>
+        <card number="1" name="Bottled Cloister"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Cogwork Assembler"/>
+        <card number="1" name="Descent into Madness"/>
+        <card number="1" name="Perilous Vault"/>
+    </zone>
+</cockatrice_deck>

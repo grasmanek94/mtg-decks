@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Teach Deck #1 Green</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Archweaver"/>
+        <card number="2" name="Drove of Elves"/>
+        <card number="4" name="Elvish Mystic"/>
+        <card number="4" name="Elvish Visionary"/>
+        <card number="1" name="Force of Nature"/>
+        <card number="2" name="Garruk's Packleader"/>
+        <card number="4" name="Kalonian Tusker"/>
+        <card number="2" name="Wood Elves"/>
+        <card number="2" name="Fog"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="24" name="Forest"/>
+        <card number="4" name="Explore"/>
+        <card number="4" name="Wild Growth"/>
+    </zone>
+    <zone name="side">
+    </zone>
+</cockatrice_deck>

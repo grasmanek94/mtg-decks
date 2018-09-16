@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Teach Deck #4 Black</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Blood Pet"/>
+        <card number="3" name="Crow of Dark Tidings"/>
+        <card number="1" name="Lord of the Pit"/>
+        <card number="4" name="Reassembling Skeleton"/>
+        <card number="3" name="Revenant"/>
+        <card number="2" name="Royal Assassin"/>
+        <card number="4" name="Typhoid Rats"/>
+        <card number="4" name="Distress"/>
+        <card number="2" name="Drown in Sorrow"/>
+        <card number="2" name="Ever After"/>
+        <card number="3" name="Corpse Churn"/>
+        <card number="4" name="Doom Blade"/>
+        <card number="24" name="Swamp"/>
+    </zone>
+    <zone name="side">
+    </zone>
+</cockatrice_deck>
